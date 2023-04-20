@@ -1,0 +1,2 @@
+Définition du CMS : C'est un système de gestion de contenu qui permet de créer, gérer et publier facilement du contenu sur un site web 
+sans avoir besoin de connaissances en programmation. Cela permet aux utilisateurs de créer et de mettre à jour leur site web de manière autonome et simplifiée.
