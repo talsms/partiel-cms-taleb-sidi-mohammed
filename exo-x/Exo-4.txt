@@ -1,0 +1,6 @@
+SELECT Car.*
+FROM Car
+// On utilise l'opérateur "INNER JOIN" pour joindre la table "Car" avec la table "Brand".
+INNER JOIN Brand ON Car.brandId = Brand.id
+// On utilise "WHERE" pour filtrer les résultats et n'afficher que les voitures de la marque "BMW".
+WHERE Brand.brandLabel = 'BMW';
