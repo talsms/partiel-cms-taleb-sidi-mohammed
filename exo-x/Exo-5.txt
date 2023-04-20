@@ -1,0 +1,9 @@
+
+SELECT User.firstName, User.lastName
+FROM User
+INNER JOIN Car ON User.carId = Car.id
+/* On utilise  "WHERE" pour filtrer les résultats et afficher que les personnes ayant une voiture de couleur rouge avec */
+WHERE Car.color = 'rouge'
+/* ORDER BY pour trier les résultats par nom de famille par ordre décroissant avec DESC */
+ORDER BY User.lastName DESC;
+
