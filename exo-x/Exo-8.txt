@@ -1,0 +1,15 @@
+SQL et NoSQL sont deux types de bases de données très différents.
+SQL : 
+- Les bases de données SQL ont une structure de données rigide et stricte. 
+- Généralement verticalement évolutives.
+- Utilisent un langage de requête structuré.
+- Sont principalement utilisées pour stocker des données structurées,
+- Les bases de données SQL sont souvent plus coûteuses à cause de leur complexité et le materiel puissant.
+- Le SQL est à privilégier lorsque les données sont structurées et que leurs relations sont fondamentales.
+NoSQL : 
+- Plus flexibles.
+- Sont horizontalement évolutives.
+- Utilisent souvent des langages de programmation spécifiques ou des API.
+- Sont souvent utilisées pour stocker des données non structurées.
+- NoSQL Peut coueteuse. 
+- Plus adaptées lorsque l’on manipule de très larges volumes de données dont les relations entre celles-ci ne sont pas particulièrement importantes.
