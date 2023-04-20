@@ -1,0 +1,4 @@
+/* On utilise INSERT INTO pour insérer la marque dans la table BRAND */
+INSERT INTO Brand (brandLabel, modele)
+/* VALUES pour la valeurs Ferrari dans le brandLabel, et NULL pour le modele qui n'a pas était spécifié */ 
+VALUES ('Ferrari', NULL);
