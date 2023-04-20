@@ -1,0 +1,10 @@
+LEs plugins qui permettent de modifier un thème WordPress :
+
+- Elementor C'est un constructeur de pages visuel
+
+- Divi Builder qui est aussi un constructeur de pages visuel
+
+- Gutenberg que j'utilise moi même pour mon portfolio qui est Le nouvel éditeur de WordPress, 
+qui permet également de créer des pages et des articles avec une interface glisser-déposer.
+
+- CSS Hero permet de personnaliser facilement les styles CSS sans avoir besoin de connaissances en codage.
